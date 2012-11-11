@@ -16,9 +16,8 @@ CKEditor_Plugin_CKGoogledoc
 "
 }
 
-// 所動的程式碼部分為plugin/ckgoogledoc/plugin.js 檔案的onOk : function()
 
-
+"所動的程式碼部分為plugin/ckgoogledoc/plugin.js 檔案的onOk : function()"
 
 // Delete
 var inplaceTag = '<iframe src="http://docs.google.com/viewer?url=' + encodeURIComponent(url) + '&embedded=true" width="' + parseInt(width) + '" height="' + parseInt(height) + '" style="border: none;">';
