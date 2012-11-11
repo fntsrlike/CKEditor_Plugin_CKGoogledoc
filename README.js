@@ -1,4 +1,5 @@
-/*
+if(0){
+
 CKEditor_Plugin_CKGoogledoc
 ===========================
 
@@ -12,7 +13,7 @@ CKEditor_Plugin_CKGoogledoc
 僅因為Google文件的Viewer經過結構的改變，
 導致該Extend做出來的iFrame會失校，
 所以針對這部分去做個改正。
-*/
+}
 
 // 所動的程式碼部分為plugin/ckgoogledoc/plugin.js 檔案的onOk : function()
 
